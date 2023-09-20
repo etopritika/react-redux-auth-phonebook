@@ -1,13 +1,27 @@
 {
   "files": {
-    "main.css": "/react-redux-auth-phonebook/static/css/main.7acaea2f.css",
-    "main.js": "/react-redux-auth-phonebook/static/js/main.07d3183d.js",
+    "main.css": "/react-redux-auth-phonebook/static/css/main.e70a1323.css",
+    "main.js": "/react-redux-auth-phonebook/static/js/main.98350012.js",
+    "static/js/415.245e74f2.chunk.js": "/react-redux-auth-phonebook/static/js/415.245e74f2.chunk.js",
+    "static/css/26.d710a763.chunk.css": "/react-redux-auth-phonebook/static/css/26.d710a763.chunk.css",
+    "static/js/26.0f36d08f.chunk.js": "/react-redux-auth-phonebook/static/js/26.0f36d08f.chunk.js",
+    "static/css/465.48647cbf.chunk.css": "/react-redux-auth-phonebook/static/css/465.48647cbf.chunk.css",
+    "static/js/465.f4a59d9d.chunk.js": "/react-redux-auth-phonebook/static/js/465.f4a59d9d.chunk.js",
+    "static/css/527.13dcc9f3.chunk.css": "/react-redux-auth-phonebook/static/css/527.13dcc9f3.chunk.css",
+    "static/js/527.30c82c11.chunk.js": "/react-redux-auth-phonebook/static/js/527.30c82c11.chunk.js",
     "index.html": "/react-redux-auth-phonebook/index.html",
-    "main.7acaea2f.css.map": "/react-redux-auth-phonebook/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/react-redux-auth-phonebook/static/js/main.07d3183d.js.map"
+    "main.e70a1323.css.map": "/react-redux-auth-phonebook/static/css/main.e70a1323.css.map",
+    "main.98350012.js.map": "/react-redux-auth-phonebook/static/js/main.98350012.js.map",
+    "415.245e74f2.chunk.js.map": "/react-redux-auth-phonebook/static/js/415.245e74f2.chunk.js.map",
+    "26.d710a763.chunk.css.map": "/react-redux-auth-phonebook/static/css/26.d710a763.chunk.css.map",
+    "26.0f36d08f.chunk.js.map": "/react-redux-auth-phonebook/static/js/26.0f36d08f.chunk.js.map",
+    "465.48647cbf.chunk.css.map": "/react-redux-auth-phonebook/static/css/465.48647cbf.chunk.css.map",
+    "465.f4a59d9d.chunk.js.map": "/react-redux-auth-phonebook/static/js/465.f4a59d9d.chunk.js.map",
+    "527.13dcc9f3.chunk.css.map": "/react-redux-auth-phonebook/static/css/527.13dcc9f3.chunk.css.map",
+    "527.30c82c11.chunk.js.map": "/react-redux-auth-phonebook/static/js/527.30c82c11.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.07d3183d.js"
+    "static/css/main.e70a1323.css",
+    "static/js/main.98350012.js"
   ]
 }
